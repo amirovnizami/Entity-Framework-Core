@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<!-- or your targeted framework version -->
+		<OutputType>Library</OutputType>
+		<!-- This ensures it's a class library -->
+		<TargetFramework>net8.0</TargetFramework>
+	</PropertyGroup>
+
+</Project>
+

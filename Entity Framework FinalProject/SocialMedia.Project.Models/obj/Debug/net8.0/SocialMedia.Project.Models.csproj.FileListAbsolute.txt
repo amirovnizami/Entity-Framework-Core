@@ -1,0 +1,12 @@
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.AssemblyInfoInputs.cache
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.AssemblyInfo.cs
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.csproj.CoreCompileInputs.cache
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.sourcelink.json
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\bin\Debug\net8.0\SocialMedia.Project.Models.deps.json
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\bin\Debug\net8.0\SocialMedia.Project.Models.dll
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\bin\Debug\net8.0\SocialMedia.Project.Models.pdb
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.dll
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\refint\SocialMedia.Project.Models.dll
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\SocialMedia.Project.Models.pdb
+C:\Users\amiro\Desktop\System-Programming\SocialMedia\SocialMedia.Project.Models\obj\Debug\net8.0\ref\SocialMedia.Project.Models.dll
